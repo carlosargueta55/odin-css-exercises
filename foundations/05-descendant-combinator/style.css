@@ -1,0 +1,18 @@
+
+/* Style 1: Style to elements that are descendants */
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Style 2: Combining type and class selector
+
+.container p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
